@@ -2,6 +2,9 @@
 
 A Personal Website programmed using JavaScript, HTML, CSS incldudes a home page and portfolio.
 
+# Purpose
+* The purpose of this program is to create a personal website for the author, Emily Flores, to showcase her interests, skills, and hobbies. The program contains HTML code that is used to structure the website, and it includes links to a stylesheet and a JavaScript file to control the appearance and behavior of the site. The website includes information about Emily's background, her interests in coding, reading, and journaling, as well as her aspirations to pursue a career in the technology industry. The website also includes book recommendations and a portfolio section.
+
 # What I Learned
 
 * HTML and CSS: I learned how to structure a webpage using HTML tags and style it using CSS properties.
