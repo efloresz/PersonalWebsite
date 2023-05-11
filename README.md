@@ -20,3 +20,7 @@ A Personal Website programmed using JavaScript, HTML, CSS incldudes a home page 
 * Portfolio Creation: I learned how to create a portfolio to showcase your work, such as your projects, skills, and experiences.
 
 * Problem Solving: I developed problem-solving skills while creating my website, such as fixing bugs or troubleshooting issues with my code.
+```
+Analysis
+~ Created 08/23/22
+~ Status: Active
